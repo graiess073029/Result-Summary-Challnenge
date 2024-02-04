@@ -139,6 +139,9 @@ html,body,.root{
     }
 
     .right{
+        justify-content: space-evenly;
+        flex-direction: column;
+        display: flex;
         padding-right: 3vw;
         padding-left: 3vw;
         padding-top: 2vh;
@@ -244,7 +247,7 @@ html,body,.root{
     }
 
     .reaction .border div div{
-        border-color: hsla(0, 100%, 67%, 0.535) !important;
+        border-color: hsla(0, 100%, 67%, 0.250) !important;
     }
 
     .memory{
@@ -252,7 +255,7 @@ html,body,.root{
     }
 
     .memory .border div div{
-        border-color: hsla(39, 100%, 56%, 0.535) !important;
+        border-color: hsla(39, 100%, 56%, 0.250) !important;
     }
 
     .verbal{
@@ -260,7 +263,7 @@ html,body,.root{
     }
 
     .verbal .border div div{
-        border-color: hsla(166, 100%, 37%,0.535) !important;
+        border-color: hsla(166, 100%, 37%,0.250) !important;
     }
 
     .visual{
@@ -268,7 +271,7 @@ html,body,.root{
     }
 
     .visual .border div div{
-        border-color: hsla(234, 85%, 45%,0.535) !important;
+        border-color: hsla(234, 85%, 45%,0.250) !important;
     }
 
     .reaction .left p{
@@ -546,7 +549,7 @@ html,body,.root{
     }
 
     .reaction .border div div{
-        border-color: hsla(0, 100%, 67%, 0.535) !important;
+        border-color: hsla(0, 100%, 67%, 0.250) !important;
     }
 
     .memory{
@@ -554,7 +557,7 @@ html,body,.root{
     }
 
     .memory .border div div{
-        border-color: hsla(39, 100%, 56%, 0.535) !important;
+        border-color: hsla(39, 100%, 56%, 0.250) !important;
     }
 
     .verbal{
@@ -562,7 +565,7 @@ html,body,.root{
     }
 
     .verbal .border div div{
-        border-color: hsla(166, 100%, 37%,0.535) !important;
+        border-color: hsla(166, 100%, 37%,0.250) !important;
     }
 
     .visual{
@@ -570,7 +573,7 @@ html,body,.root{
     }
 
     .visual .border div div{
-        border-color: hsla(234, 85%, 45%,0.535) !important;
+        border-color: hsla(234, 85%, 45%,0.250) !important;
     }
 
     .reaction .left p{
